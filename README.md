@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**jcapps2/jcapps2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm Jacob, a Computer Science grad from the University of Alabama at Birmingham, and an experienced front end dev aspiring to work in the cloud.
 
-Here are some ideas to get you started:
+I've always had a strong interest in technology and knowing how things work, so once I learned about coding, it's been all I can think about. Upon receiving my CS degree in 2018, I started my career as a front end dev, but quickly took an interest in full stack and began building my own apps in my spare time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now my key interest is AWS. I'm fascinated by serverless technologies, and I am looking to use my current dev experience to build highly scalable cloud applications.
+
+---
+
+- 🔭 Currently looking for new opportunities!
+- 🌱 Currently exploring Python and AWS
+- 📫 How to reach me: fill out the contact form on my website (https://jcapps-portfolio.vercel.app/)
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcapps2&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
+
+<p align=center>
+<img height="25" src="https://komarev.com/ghpvc/?username=jcapps2&color=orange" />
+</p>
