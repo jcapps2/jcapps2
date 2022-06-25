@@ -7,14 +7,6 @@ I've always had a strong interest in technology and knowing how things work, so 
 
 Now my key interest is AWS. I'm fascinated by serverless technologies, and I am looking to use my current dev experience to build highly scalable cloud applications.
 
----
-
-- 🔭 Currently looking for new opportunities!
-- 🌱 Currently exploring Python and AWS
-- 📫 How to reach me: fill out the contact form on my website (https://jcapps-portfolio.vercel.app/)
-
----
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcapps2&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
